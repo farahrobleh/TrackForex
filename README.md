@@ -1,2 +1,2 @@
 # TrackForex
-Real-Time Foreign Currency Exchange Tracker
+Real-Time Foreign Currency Exchange Tracker.
